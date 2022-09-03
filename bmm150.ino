@@ -109,7 +109,6 @@ void initScreen()
 
 void setup() 
 {
-//    M5.begin(true, false, true, false);
   auto cfg = M5.config();
 
   cfg.clear_display = true;  // default=true. clear the screen when begin.
