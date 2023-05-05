@@ -18,5 +18,5 @@ M5Stack-Core-ESP32(ESP32) 2.0.3 or M5Stack-Core-ESP32(M5Stack) 1.0.9
 M5Stack-Fire-ESP32(ESP32) 2.0.3 or M5Stack-Fire-ESP32(M5Stack) 1.0.9  
 M5Unified 0.0.7
 
-## Coming soon...
-CoreS3 SDA:G12, SCL:G11, I2C:investigating try 0x10-0x13.
+## Not supported M5CoreS3
+M5CoreS3 SDA:G12, SCL:G11, BMM150 I2C is connected via BMI270 AUX I/F.
